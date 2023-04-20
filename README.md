@@ -1,3 +1,3 @@
 ### Binary enjoyer because ASM is to easy
-![](https://i.redd.it/optaqwtuv2n91.jpg | width=100)
+![](https://i.redd.it/optaqwtuv2n91.jpg =250x250)
 
