@@ -1,13 +1,13 @@
 ## language
 
-`* python wizzard`
+* python wizzard
 <br>
-javascript hater
+* javascript hater
 <br>
-html&css noob
+* html&css noob
 <br>
-C beginner
+* C beginner
 <br>
-C# ... 😐
+* C# ... 😐
 <br>
-Scratch enjoyer
+* Scratch enjoyer
