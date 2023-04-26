@@ -1,6 +1,6 @@
 ## language
 
-python wizzard
+`* python wizzard`
 <br>
 javascript hater
 <br>
