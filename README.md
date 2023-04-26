@@ -1,7 +1,7 @@
 ## language
 
 * python wizzard
-* javascript hater                                                  (╯°□°）╯ ┻━┻ —
+* javascript hater
 * html&css noob                                 
 * C beginner
 * C# ... 😐
