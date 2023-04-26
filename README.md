@@ -1,8 +1,8 @@
 ## language
 
 * python wizzard
-* javascript hater
-* html&css noob
+* javascript hater                                                  (╯°□°）╯ ┻━┻ —
+* html&css noob                                 
 * C beginner
 * C# ... 😐
 * Scratch enjoyer
