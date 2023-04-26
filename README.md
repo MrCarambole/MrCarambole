@@ -2,7 +2,7 @@
 
 * first name: Carambole
 * age: I was born on a Thursday
-* iq: 300>
+* iq: too much
 
 ## language
 
